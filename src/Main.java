@@ -63,7 +63,7 @@ public class Main {
         System.out.println("Всего работников в компании - " + personal + " человек");
         personal = personal + 94;
         hours = personal * norma;
-        System.out.println("Если в компании работает " + personal + " человек, то всего " + hours + " часа(ов) работы может быть поделено между сотрудниками.");
+        System.out.println("Если в компании работают " + personal + " человек, то всего " + hours + " часа(ов) работы может быть поделено между сотрудниками.");
 
     }
 }
